@@ -1,0 +1,73 @@
+.episodeContainer {
+
+  color: #fff; 
+  padding: 20px; 
+  border-radius: 8px; 
+  margin: 20px; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+  min-height: 100vh; 
+  background-color: #030b1e; 
+  box-sizing: border-box; 
+}
+
+  
+  
+  .episodeTitle {
+    font-family: 'Orbitron', sans-serif; 
+    font-size: 2rem; 
+    margin-bottom: 10px; 
+  }
+  
+  .episodeDetails {
+    font-size: 1rem; 
+    line-height: 1.5; 
+  }
+  
+  .characterList {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    gap: 20px; 
+    padding: 20px 0; 
+  }
+  
+
+  .characterList > * {
+    max-width: 300px; 
+    margin: 0 auto; 
+  }
+  
+  
+  .characterCard {
+    background-color: #1e1e1e; 
+    color: #19D620; 
+    padding: 10px; 
+    border-radius: 4px; 
+    text-align: center; 
+    transition: transform 0.2s ease-in-out; 
+    margin: 0 auto; 
+    width: fit-content; 
+  }
+  
+  .characterCard:hover {
+    transform: scale(1.05); 
+  }
+  
+
+
+.searchContainer {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.searchInput {
+  margin: 20px 0;
+  padding: 10px;
+  width: 100%; 
+  max-width: 400px; 
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+
+  

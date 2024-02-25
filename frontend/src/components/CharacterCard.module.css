@@ -1,0 +1,86 @@
+.cardContainer {
+   
+  }
+  
+  .cardLink {
+    text-decoration: none; 
+    display: block; 
+  }
+  
+  .card {
+
+    cursor: pointer; 
+    transition: transform 0.2s ease-in-out; 
+    background-color: #1e1e1e; 
+    margin: 0 auto; 
+    padding: 1rem; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+  }
+
+  
+  .card:hover {
+    transform: scale(1.03);
+  }
+  
+  .cardImage {
+   
+    width: 100%; 
+    height: auto;
+    border-bottom: 1px solid #ddd; 
+  }
+  
+  .cardInfo {
+    padding: 10px;
+  }
+  
+  .cardTitle {
+    color: #fff; 
+    font-size: 1rem; 
+    margin: 0 0 10px 0;
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+  }
+
+
+
+  .addButton, .removeButton {
+    font-size: 1rem; 
+    padding: 10px 20px; 
+    margin-top: 10px; 
+    cursor: pointer; 
+    border: none; 
+    border-radius: 4px; 
+    transition: background-color 0.3s, transform 0.3s; 
+    outline: none; 
+  }
+  
+  .addButton {
+    background-color: #19D620; 
+    color: #1e1e1e;
+  }
+  
+  .addButton:hover, .addButton:focus {
+    background-color: #17c91a; 
+    transform: translateY(-2px); 
+  }
+  
+  .removeButton {
+    background-color: #ff6347; 
+    color: #fff; 
+    align-self: center;
+  }
+  
+  .removeButton:hover, .removeButton:focus {
+    background-color: #e5533b; 
+    transform: translateY(-2px); 
+  }
+  
+
+  

@@ -1,0 +1,31 @@
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Core.deps.json
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Core.dll
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Core.pdb
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Domain.dll
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Domain.pdb
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.csproj.AssemblyReference.cache
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.AssemblyInfoInputs.cache
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.AssemblyInfo.cs
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndM.4C602D1A.Up2Date
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.dll
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\refint\RickAndMortyAPI.Core.dll
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.pdb
+C:\Users\owwma\reactProject\backendProject\RickAndMortyAPI.Core\obj\Debug\net8.0\ref\RickAndMortyAPI.Core.dll
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Core.deps.json
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Core.dll
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Core.pdb
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Domain.dll
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\bin\Debug\net8.0\RickAndMortyAPI.Domain.pdb
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.csproj.AssemblyReference.cache
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.AssemblyInfoInputs.cache
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.AssemblyInfo.cs
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndM.4C602D1A.Up2Date
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.dll
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\refint\RickAndMortyAPI.Core.dll
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.pdb
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\ref\RickAndMortyAPI.Core.dll
+C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Core\obj\Debug\net8.0\RickAndMortyAPI.Core.sourcelink.json
