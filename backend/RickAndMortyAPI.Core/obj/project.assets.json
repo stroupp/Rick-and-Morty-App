@@ -274,11 +274,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Core\\RickAndMortyAPI.Core.csproj",
+      "projectUniqueName": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Core\\RickAndMortyAPI.Core.csproj",
       "projectName": "RickAndMortyAPI.Core",
-      "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Core\\RickAndMortyAPI.Core.csproj",
+      "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Core\\RickAndMortyAPI.Core.csproj",
       "packagesPath": "C:\\Users\\owwma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Core\\obj\\",
+      "outputPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\owwma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -295,8 +295,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Domain\\RickAndMortyAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Domain\\RickAndMortyAPI.Domain.csproj"
+            "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Domain\\RickAndMortyAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Domain\\RickAndMortyAPI.Domain.csproj"
             }
           }
         }

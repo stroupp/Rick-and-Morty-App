@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TaT1zPI2Oa4V+EkBmXRMGjQVy4PH0FEpJrWfJwHGiPVv2TUXPDYE/Zud/mG1ZdQ67QRB5rE+QJlmAyeoJqBztQ==",
+  "dgSpecHash": "p2IYiZIHX3w4bwx5AsxiRZ47LsN73F0ylSexKhAhGXFkClPHHJLgNn7PIreJjfeJlvPIZc3j2jN8jknW2rwn2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Application\\RickAndMortyAPI.Application.csproj",
+  "projectFilePath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Application\\RickAndMortyAPI.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owwma\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\owwma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",

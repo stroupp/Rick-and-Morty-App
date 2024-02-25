@@ -23,3 +23,16 @@ C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Do
 C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.pdb
 C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\ref\RickAndMortyAPI.Domain.dll
 C:\Users\owwma\Desktop\Github projesi\RickAndMortyApp\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.sourcelink.json
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\bin\Debug\net8.0\RickAndMortyAPI.Domain.deps.json
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\bin\Debug\net8.0\RickAndMortyAPI.Domain.dll
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\bin\Debug\net8.0\RickAndMortyAPI.Domain.pdb
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.AssemblyInfo.cs
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.sourcelink.json
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.dll
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\refint\RickAndMortyAPI.Domain.dll
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\RickAndMortyAPI.Domain.pdb
+C:\Users\owwma\Desktop\Github projesi\Rick And Morty App\Rick-And-Morty-App\backend\RickAndMortyAPI.Domain\obj\Debug\net8.0\ref\RickAndMortyAPI.Domain.dll

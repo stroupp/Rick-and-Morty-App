@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xig4iDUfdTgJM1w9srkGVQ14g+wyHWJauC2eXTWw8GOJXPqpCaqvrKlN/Qv8tQJPP0fgRlRfT/2MliWFT+VLUg==",
+  "dgSpecHash": "URCGS91erMboS9hvtkX4rNt/BkQcBjWSAycOU7LT2y+5+X3ECJPRfP6PoXqkb9zyw7yaEuExxVsIi8qg28njnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.API\\RickAndMortyAPI.API.csproj",
+  "projectFilePath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.API\\RickAndMortyAPI.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\owwma\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\owwma\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

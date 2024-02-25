@@ -3357,11 +3357,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.API\\RickAndMortyAPI.API.csproj",
+      "projectUniqueName": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.API\\RickAndMortyAPI.API.csproj",
       "projectName": "RickAndMortyAPI.API",
-      "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.API\\RickAndMortyAPI.API.csproj",
+      "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.API\\RickAndMortyAPI.API.csproj",
       "packagesPath": "C:\\Users\\owwma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.API\\obj\\",
+      "outputPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\owwma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3378,17 +3378,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Application\\RickAndMortyAPI.Application.csproj": {
-              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Application\\RickAndMortyAPI.Application.csproj"
+            "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Application\\RickAndMortyAPI.Application.csproj": {
+              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Application\\RickAndMortyAPI.Application.csproj"
             },
-            "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Core\\RickAndMortyAPI.Core.csproj": {
-              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Core\\RickAndMortyAPI.Core.csproj"
+            "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Core\\RickAndMortyAPI.Core.csproj": {
+              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Core\\RickAndMortyAPI.Core.csproj"
             },
-            "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Domain\\RickAndMortyAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Domain\\RickAndMortyAPI.Domain.csproj"
+            "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Domain\\RickAndMortyAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Domain\\RickAndMortyAPI.Domain.csproj"
             },
-            "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Infrastructure\\RickAndMortyAPI.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\RickAndMortyApp\\backend\\RickAndMortyAPI.Infrastructure\\RickAndMortyAPI.Infrastructure.csproj"
+            "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Infrastructure\\RickAndMortyAPI.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\owwma\\Desktop\\Github projesi\\Rick And Morty App\\Rick-And-Morty-App\\backend\\RickAndMortyAPI.Infrastructure\\RickAndMortyAPI.Infrastructure.csproj"
             }
           }
         }
